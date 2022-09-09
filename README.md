@@ -1,4 +1,4 @@
-This respository is about Salary Calculator in Java programming language. This application has a function that calculates an employee's salary, given how many hours 
+This respository is about Salary calculator in Java programming language. This application has a function that calculates an employee's salary, given how many hours 
 that are worked per week and how much the person makes per hour. 
 
 A user can enter how many hours the employee works per week, how much the person makes per hour also for the vacation days an employee might take. To account for the 
